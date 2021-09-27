@@ -1,0 +1,67 @@
+#ktp
+nama = "febriana"
+alamat = "Jl.Desa kapur komp.megah asri park"
+tgllahir = "Pontianak,18 februari 2001"
+nik=2254095149298828
+jeniskelamin = "Perempuan"
+agama ="kristen"
+status = "Mahasiswa"
+
+#cetak
+print("=======================================")
+print("nama          :", nama)
+print("alamat        :", agama)
+print("tgllahir      :", tgllahir)
+print("NIK           :", nik)
+print("jeniskelamin  :",jeniskelamin)
+print("agama         :",agama)
+print("status        :", status)
+print("=======================================")
+
+#sim
+nama = "febriana"
+alamat = "Jl.Desa kapur komp.megah asri park"
+tgllahir = "Pontianak,18 februari 2001"
+nosim=2254567878633
+jeniskelamin = "Perempuan"
+agama ="kristen"
+status = "Mahasiswa"
+
+#cetak
+print("=======================================")
+print("nama          :", nama)
+print("alamat        :", agama)
+print("tgllahir      :", tgllahir)
+print("No.sim        :", nosim)
+print("jeniskelamin  :",jeniskelamin)
+print("agama         :",agama)
+print("status        :", status)
+print("=======================================")
+
+#cv
+nama = "febriana"
+tgllahir = "Pontianak,18 februari 2001"
+jeniskelamin = "Perempuan"
+alamat = "Jl.Desa kapur komp.megah asri park"
+agama ="kristen"
+nohp = "081257281091"
+status = "Mahasiswa"
+email= "febrianachen664@gmail.com"
+ig = "fa_febriana"
+
+#
+
+#cetak
+print("=======================================")
+print("nama          :", nama)
+print("alamat        :", agama)
+print("tgllahir      :", tgllahir)
+print("jeniskelamin  :", jeniskelamin)
+print("agama         :", agama)
+print("Nohp          :", nohp)
+print("status        :", status)
+
+print("=======================================")
+
+print("Email         :", email)
+print("ig            :", ig)
